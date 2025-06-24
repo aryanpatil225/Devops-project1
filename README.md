@@ -45,3 +45,4 @@ Devops-project1/
 - **Monitoring**: AWS CloudWatch Dashboards
 - **Secrets**: AWS Secrets Manager
 
+
