@@ -121,5 +121,5 @@ NEXT_PUBLIC_API_URL=https://your-new-backend-url.com
 - `GET /api/health`: Health check endpoint
   - Returns: `{"status": "healthy", "message": "Backend is running successfully"}`
 
-- `GET /api/message`: Get the integration message
-  - Returns: `{"message": "You've successfully integrated the backend!"}`
+- `GET /api/message`:   - Returns: `{"message": "You've successfully integrated the backend!"}`
+# Trigger CI/CD
